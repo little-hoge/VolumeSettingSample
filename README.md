@@ -15,5 +15,5 @@ https://unity.moon-bear.com/unitychan-coin/sound-manager/
 - BGM・フリー音楽素材 MusMus  
 http://musmus.main.jp/
 
-- SoundManagerのC＃スクリプト
+- SoundManagerのC＃スクリプト  
 https://00m.in/Lp0Up
